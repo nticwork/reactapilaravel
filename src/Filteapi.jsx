@@ -20,6 +20,7 @@ export default function FilteApi() {
 
   return (
     <div>
+        <h1> React App Calling Laravel API</h1>
       <h2>Recherche produits</h2>
 
       <input
